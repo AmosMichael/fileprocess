@@ -1,0 +1,1 @@
+Show how to deal with file in C.
